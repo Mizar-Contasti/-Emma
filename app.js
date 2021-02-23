@@ -4,9 +4,9 @@ window.addEventListener("dfMessengerLoaded", function (event) {
   const dfMessenger = document.querySelector("df-messenger");
   dfMessenger.showMinChat();
 
-  console.log(dfMessenger);
+  // console.log(dfMessenger);
 
-  dfMessenger.renderCustomText("Buenos dìas");
+  // dfMessenger.renderCustomText("Buenos dìas");
 
   dfMessenger.addEventListener("df-button-clicked", function (event) {
     if (event.detail.element.text == "azul") {
@@ -23,6 +23,29 @@ window.addEventListener("dfMessengerLoaded", function (event) {
   });
 
   dfMessenger.addEventListener("df-user-input-entered", function (event) {
-    console.log("df-user-input-entered " + event.detail.input);
+    if (event.detail.input == "rojo") {
+      // Obtener datos del navegador y preguntar localizacion
+
+      fetch();
+
+      const successCallback = (position) => {
+        console.log(position);
+      };
+
+      const errorCallback = (error) => {
+        console.error(error);
+      };
+
+      navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
+
+      // const watchId = navigator.geolocation.watchPosition(
+      //   successCallback,
+      //   errorCallback
+      // );
+    }
   });
+
+  // dfMessenger.addEventListener("df-user-input-entered", function (event) {
+  //   console.log("df-user-input-entered " + event.detail.input);
+  // });
 });
