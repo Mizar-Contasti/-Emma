@@ -10,3 +10,7 @@
 > Proximamente Emma tendra su propia App donde podrás consultarla más fácilmente, por los momentos el proyecto se encuentra en fase beta.
 
 > Si deseas apoyar el proyecto o preguntarme cualquier cosa, no dudes en mandarme un mail a contasti.mizar@gmail.com
+
+## Nota
+> Emma es un Chatbot que utiliza Apis Free para Developers, por lo cual el maximo de Queries que alcanza al día son 100 para las noticias y 1000 para el clima.
+> Esta misma te indicará cuando ya no tenga mas llamadas y te ofrecerá busques en ella el día siguiente.
