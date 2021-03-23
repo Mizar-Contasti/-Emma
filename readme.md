@@ -12,5 +12,30 @@
 > Si deseas apoyar el proyecto o preguntarme cualquier cosa, no dudes en mandarme un mail a contasti.mizar@gmail.com
 
 ## Nota
+
 > Emma es un Chatbot que utiliza Apis Free para Developers, por lo cual el maximo de Queries que alcanza al día son 100 para las noticias y 1000 para el clima.
 > Esta misma te indicará cuando ya no tenga mas llamadas y te ofrecerá busques en ella el día siguiente.
+
+## Changelog
+
+### **0.3** 22/03/2021
+
+> Emma ahora muestra Noticias de más de 50 Países Validadas por Medios Internacionales.
+> Emma mantiene el Contexto de País durante el cambio de categoría
+> Se eliminaron las noticias por término de busqueda
+
+### **0.2** 15/02/2021
+
+> Implementacion de App de Noticias a través de NewsAPI
+> Emma muestra noticias por término de busqueda general
+
+### **0.1** 12/02/2021
+
+> Implementación de App del Clima por OpenWeatherAPI
+> Emma es Capaz de indicar el clima en el momento actual
+
+## Próximos Cambios
+
+> Desarrollo de Emma como WebApp
+> Se mostrará el clima de la localidad a lo largo del día o semana ( Todavia en Discusion )
+> Emma utilizará distintas imagenes al mostrar el clima actual
