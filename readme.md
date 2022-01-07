@@ -17,30 +17,30 @@
 
 ## 📌Changelog
 
-### ** 1.0 ** 01/06/2022
+### **1.0** 01/06/2022
 
 > - Emma now is able troubleshoot errors by itself, also helps the user in a specified path.
 > - Emma is able to save Sessions, Transcripts and Paths Data.
 > - Emma now is a Bilingual Chatbot.
 
-### ** 0.4 ** 03/23/2021
+### **0.4** 03/23/2021
 
 > Emma now has her own app ✔ [Download it here](https://drive.google.com/file/d/1Ae-SFB0euZAQJioKhWLc-zyFJkk_q7gy/view?usp=sharing)
 > Specific images are now shown for each type of weather
 > Changed response type for weather from Accordeon to Information.
 
-### ** 0.3 ** 03/22/2021
+### **0.3** 03/22/2021
 
 > Emma now shows News from more than 50 Countries Validated by International Media.
 > Emma maintains Country Context during category change
 > News by search term was eliminated
 
-### ** 0.2 ** 02/15/2021
+### **0.2** 02/15/2021
 
 > Implementation of News App through NewsAPI
 > Emma shows news by general search term
 
-### ** 0.1 ** 02/12/2021
+### **0.1** 02/12/2021
 
 > Implementation of the Weather App by OpenWeatherAPI
 > Emma is able to indicate the weather at the current moment
