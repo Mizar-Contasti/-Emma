@@ -6,7 +6,7 @@
 > - The News are divided into different categories (General, Technology, Science, Entertainment ETC) and are taken from reliable sources.
 > - The weather is the current one of the indicated location.
 
-## To test emma you can access the following [Link] (https://mizar-contasti.github.io/emma/) or download her app [Here] (https://drive.google.com/file/d / 1Ae-SFB0euZAQJioKhWLc-zyFJkk_q7gy / view? Usp = sharing)
+## To test emma you can access the following [Link] (https://mizar-contasti.github.io/Emma/) or download her app [Here](https://drive.google.com/file/d/1Ae-SFB0euZAQJioKhWLc-zyFJkk_q7gy/view?usp=sharing)
 
 > If you want to support the project or ask me anything, do not hesitate to send me an email to contasti.mizar@gmail.com
 
@@ -25,7 +25,7 @@
 
 ### ** 0.4 ** 03/23/2021
 
-> Emma now has her own app ✔ [Download it here] (https://drive.google.com/file/d/1Ae-SFB0euZAQJioKhWLc-zyFJkk_q7gy/view?usp=sharing)
+> Emma now has her own app ✔ [Download it here](https://drive.google.com/file/d/1Ae-SFB0euZAQJioKhWLc-zyFJkk_q7gy/view?usp=sharing)
 > Specific images are now shown for each type of weather
 > Changed response type for weather from Accordeon to Information.
 
