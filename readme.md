@@ -6,7 +6,7 @@
 > - The News are divided into different categories (General, Technology, Science, Entertainment ETC) and are taken from reliable sources.
 > - The weather is the current one of the indicated location.
 
-## To test emma you can access the following [Link] (https://mizar-contasti.github.io/Emma/) or download her app [Here](https://drive.google.com/file/d/1Ae-SFB0euZAQJioKhWLc-zyFJkk_q7gy/view?usp=sharing)
+## To test emma you can access the following [Link](https://mizar-contasti.github.io/Emma/) or download her app [Here](https://drive.google.com/file/d/1Ae-SFB0euZAQJioKhWLc-zyFJkk_q7gy/view?usp=sharing)
 
 > If you want to support the project or ask me anything, do not hesitate to send me an email to contasti.mizar@gmail.com
 
